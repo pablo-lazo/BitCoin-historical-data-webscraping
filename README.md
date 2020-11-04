@@ -1,3 +1,1 @@
-"# Crypto-currency-time-series-analysis"
-
-Time series analysis applied to Cryptocurrency.
+"# BitCoin historical data WebScraping from Coinmarketcap.com"
